@@ -8,7 +8,7 @@
 Welcome here 👋
 <ul>
   <li>👯 I’m looking to collaborate in software development/projects for industrial applications.</li>
-  <li>💬 Ask me about: chemical engineering, separations processes, python, artificial inteligence and machine learning. </li>
+  <li>💬 Ask me about chemical engineering, separation processes, python, artificial intelligence, and machine learning. </li>
   <li>📫 How to reach me: <b> ricardo.pirabed@outlook.es </li>
   <li>⚡ I love to promote ideas that create changes for a big smile.</li>
   </ul>
@@ -26,4 +26,13 @@ Welcome here 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/sHcdLygG4AZpu/giphy.gif" width="250"/>
+</div>
+
+  :toolbox: Certifications :
+</div>
+ <div>
+    <img src="[https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg](https://github.com/pira245/pira245/blob/main/python-institue.PNG)" title="python-institute" alt="Python" width="80" height="80"/>&nbsp;
+    <img src="[https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg](https://github.com/pira245/pira245/blob/main/agile-foundation.png)" title="agile-foundation" alt="agile" width="80" height="80"/>&nbsp; 
+    <img src="[https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg](https://github.com/pira245/pira245/blob/main/scrum-manager.png)" title="scrum-manager" alt="scrum" width="80" height="80"/>&nbsp;
+    <img src="[https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg](https://github.com/pira245/pira245/blob/main/scrum-master.png)" title="scrum-master" alt="scrum" width="80" height="80"/>&nbsp;
 </div>
