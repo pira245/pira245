@@ -33,6 +33,6 @@ Welcome here 👋
  <div>
     <img src="https://github.com/pira245/pira245/blob/main/python-institue.PNG" title="python-institute" alt="Python" width="80" height="80"/>&nbsp;
     <img src="https://github.com/pira245/pira245/blob/main/agile-foundation.png" title="agile-foundation" alt="agile" width="80" height="80"/>&nbsp; 
-    <img src="https://github.com/pira245/pira245/blob/main/scrum-manager.png" title="scrum-manager" alt="scrum-manager" width="80" height="80"/>&nbsp;
     <img src="https://github.com/pira245/pira245/blob/main/scrum-master.png" title="scrum-master" alt="scrum-master" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/pira245/pira245/blob/main/scrum-manager.png" title="scrum-manager" alt="scrum-manager" width="220" height="64"/>&nbsp;
 </div>
