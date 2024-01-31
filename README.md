@@ -9,7 +9,7 @@ Welcome here 👋
 <ul>
   <li>👯 I’m looking to collaborate in software development/projects for industrial applications.</li>
   <li>💬 Ask me about chemical engineering, separation processes, python, artificial intelligence, and machine learning. </li>
-  <li>📫 How to reach me: <b> ricardo.pirabed@outlook.es </li>
+  <li>📫 How to reach me: <b> ricardo.pirabed@gmail.com </li>
   <li>⚡ I love to promote ideas that create changes for a big smile.</li>
   </ul>
  
