@@ -44,17 +44,17 @@ Explore my featured projects below, categorized into key areas of innovation:
   <tr>
     <td style="background-color: #FFF8F0; text-align: center; padding: 15px; border: 2px solid #41C8A9;">
       <a href="https://github.com/pira245/TkinterProductManager">
-        <img src="https://github.com/pira245/TkinterProductManager/media/TkinterProductManager.png" alt="TkinterProductManager" width="120" height="120">
+        <img src="https://github.com/pira245/TkinterProductManager/blob/wema.main/media/TkinterProductManager.png" alt="TkinterProductManager" width="120" height="120">
       </a>
     </td>
     <td style="background-color: #FFF8F0; text-align: center; padding: 15px; border: 2px solid #41C8A9;">
       <a href="https://github.com/pira245/FlaskTasksManager">
-        <img src="https://github.com/pira245/FlaskTasksManager/media/FlaskTasksManager.png" alt="FlaskTasksManager" width="120" height="120">
+        <img src="https://github.com/pira245/FlaskTasksManager/blob/main/media/FlaskTasksManager.png" alt="FlaskTasksManager" width="120" height="120">
       </a>
     </td>
     <td style="background-color: #FFF8F0; text-align: center; padding: 15px; border: 2px solid #41C8A9;">
       <a href="https://github.com/pira245/webase">
-        <img src=",https://github.com/pira245/webase/media/webase.png" alt="Webase" width="120" height="120">
+        <img src="https://github.com/pira245/webase/blob/wema.main/media/webase.png" alt="Webase" width="120" height="120">
       </a>
     </td>
     <td style="background-color: #FFF8F0; text-align: center; padding: 15px; border: 2px solid #41C8A9;">
@@ -119,9 +119,9 @@ Explore my featured projects below, categorized into key areas of innovation:
 
 :toolbox: Certifications :
 <div>
-    <img src="https://github.com/pira245/media/profile/python-institue.PNG" title="python-institute" alt="Python" width="80" height="80"/>&nbsp;
-    <img src="https://github.com/pira245/media/profile/agile-foundation.png" title="agile-foundation" alt="agile" width="80" height="80"/>&nbsp; 
-    <img src="https://github.com/pira245/media/profile/main/scrum-master.png" title="scrum-master" alt="scrum-master" width="80" height="80"/>&nbsp;
-    <img src="https://github.com/pira245/media/profile/scrum-manager.png" title="scrum-manager" alt="scrum-manager" width="220" height="64"/>&nbsp;
+    <img src="https://github.com/pira245/pira245/blob/wema.main/media/profile/python-institue.PNG" title="python-institute" alt="Python" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/pira245/pira245/blob/wema.main/media/profile/agile-foundation.png" title="agile-foundation" alt="agile" width="80" height="80"/>&nbsp; 
+    <img src="https://github.com/pira245/pira245/blob/wema.main/media/profile/scrum-master.png" title="scrum-master" alt="scrum-master" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/pira245/pira245/blob/wema.main/media/profile/scrum-manager.png" title="scrum-manager" alt="scrum-manager" width="220" height="64"/>&nbsp;
 </div>
 
