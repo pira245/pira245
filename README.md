@@ -49,7 +49,7 @@ Explore my featured projects below, categorized into key areas of innovation:
     </td>
     <td style="background-color: #FFF8F0; text-align: center; padding: 15px; border: 2px solid #41C8A9;">
       <a href="https://github.com/pira245/FlaskTasksManager">
-        <img src="https://github.com/pira245/FlaskTasksManager/blob/main/media/FlaskTasksManager.png" alt="FlaskTasksManager" width="120" height="120">
+        <img src="https://github.com/pira245/FlaskTasksManager/blob/wema.main/media/FlaskTasksManager.png" alt="FlaskTasksManager" width="120" height="120">
       </a>
     </td>
     <td style="background-color: #FFF8F0; text-align: center; padding: 15px; border: 2px solid #41C8A9;">
