@@ -14,8 +14,8 @@ Hi, I'm Ricardo, a **Chemical Engineer** with a passion for **software developme
 <ul>
 <li>👯 I’m looking to collaborate in software development/projects for industrial applications.</li>
 <li>💬 Let's get into engineering processes using Python and machine learning. </li>
-<li>📫 How to reach me: <b> ricardo.pirabed@gmail.com </li>
-<li>⚡ Time is the most precious asset available to everyone.</li>
+<li>📫 How to reach me: <b> ricardo.agbogladja@wemaia.tech </li>
+<li>⚡ Reach me on <a href="https://substack.com/@ricardopagbogladja" style="color: #ED6C1D;">substack</a> for more</li>
 </ul>
 :hammer_and_wrench: Languages and Tools :
 </div>
@@ -90,7 +90,7 @@ Explore my featured projects below, categorized into key areas of innovation:
       Web
     </td>
     <td style="background-color: #ED6C1D; color: #FFF8F0; font-weight: bold; text-align: center; padding: 8px; border-radius: 15px;">
-      Business Development
+      Digital Product
     </td>
   </tr>
 </table>
@@ -112,7 +112,7 @@ Explore my featured projects below, categorized into key areas of innovation:
    - [View Repository](https://github.com/pira245/webase)
 
 1. **wema.digital:** The code that drives industrial activities. 
-   - **Category:** Business Development
+   - **Category:** Digital Product
    - [View Repository](https://github.com/Wema-Digital/wema.digital)
 
 ---
